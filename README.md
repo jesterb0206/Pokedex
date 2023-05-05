@@ -15,11 +15,11 @@
 
 <br>
 
-![Pokedex]()
+![Pokedex](images/pokedex.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Pokedex/)
 
 <br>
 
